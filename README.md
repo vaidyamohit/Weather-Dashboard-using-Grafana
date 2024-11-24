@@ -2,9 +2,11 @@
 
 **Project Made by : 
 Agathiyan K (045005)
-Mohit Vaidya (045032)
-Shantanu Bharvirkar (045055)**
 
+Mohit Vaidya (045032)
+
+Shantanu Bharvirkar (045055)
+**
 ## Dataset and Variables
 
 The dataset consists of **96,453 entries** and **12 variables**, offering a comprehensive overview of weather conditions. Below is an explanation of each variable:
