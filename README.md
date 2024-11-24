@@ -1,6 +1,6 @@
 # Weather-Dashboard-using-Grafana
 
-Acknowledgement for the Dataset - Mr. Muthukumar.J (https://www.kaggle.com/datasets/muthuj7/weather-dataset)
+Acknowledgement for the Dataset - [Mr. Muthukumar.J](https://www.kaggle.com/datasets/muthuj7/weather-dataset)
 
 **Project Made by :**
 
