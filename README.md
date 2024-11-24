@@ -10,7 +10,7 @@ Acknowledgement for the Dataset - [Mr. Muthukumar.J](https://www.kaggle.com/data
 
 **Shantanu Bharvirkar (045055)**
 
-## Dataset and Variables
+## About the Dataset
 
 The dataset consists of **96,453 entries** and **12 variables**, offering a comprehensive overview of weather conditions. Below is an explanation of each variable:
 
