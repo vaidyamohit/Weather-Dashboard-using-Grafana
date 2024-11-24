@@ -1,6 +1,6 @@
 # Weather-Dashboard-using-Grafana
 
-Acknowledgement for the Dataset - Mr. Dhiraj Sharma
+Acknowledgement for the Dataset - Mr. Muthukumar.J (https://www.kaggle.com/datasets/muthuj7/weather-dataset)
 
 **Project Made by :**
 
@@ -39,6 +39,8 @@ The dataset consists of **96,453 entries** and **12 variables**, offering a comp
 8. Provide actionable managerial insights for logistics, energy, agriculture, and urban planning.
 
 ## Dashboard
+
+https://drive.google.com/drive/folders/16YUKeXr_W8vODRg5aN-OaF0VKKN5me5K
 
 ![WhatsApp Image 2024-11-24 at 22 24 14_f556b062](https://github.com/user-attachments/assets/fcf6471e-d239-4e3b-8ca5-2e8dc6b3b311)
 ![WhatsApp Image 2024-11-24 at 22 32 13_8ef7a50e](https://github.com/user-attachments/assets/0db80170-66bb-42d4-a555-8ce84eadaa75)
