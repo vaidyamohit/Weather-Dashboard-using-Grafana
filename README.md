@@ -150,6 +150,9 @@ https://drive.google.com/drive/folders/16YUKeXr_W8vODRg5aN-OaF0VKKN5me5K
 10. **Supply Chain Management**:
     - Prepare inventory and logistics for potential disruptions caused by severe weather, especially during storms or precipitation events.
 
+## Demo
+
+https://github.com/user-attachments/assets/49f9ffc9-d257-4ae1-b570-50e808f83192
 
 ## Summary and Conclusion
 
